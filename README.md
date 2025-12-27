@@ -1,24 +1,24 @@
-# 🌳 Trees – DSA
+# DSA Problem Solving Repository 💻
+This repo contains my **DSA solutions**, organized by topics.
 
-Tree problems solved from **LeetCode**.
+---
 
-## Problems
-🔥Day 1
-- **inorder traversal**  
-  https://leetcode.com/problems/binary-tree-inorder-traversal/
+## 📂 Topics
+- Arrays
+- Linkedlist
+- Binary Search
+- Stack Queues
+- Trees  
+- Graphs  
+- Dynamic Programming 
+- Recursion
 
-- **preorder traversal**  
-  https://leetcode.com/problems/binary-tree-preorder-traversal/
+Each folder has a `README.md` with day-wise solved problems and links.
 
-- **postorder traversal** 
-  https://leetcode.com/problems/binary-tree-postorder-traversal/
+---
 
-- **binary tree constuction from preorder and inorder** 
-  https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+## 🎯 Purpose
+- Track my DSA learning  
+- Keep solutions & problem links handy  
 
-- **diameter of binary tree** 
-   https://leetcode.com/problems/diameter-of-binary-tree/description/
-
-- **right side view of binary tree** 
-   https://leetcode.com/problems/binary-tree-right-side-view/description/
-
+Happy Coding! 🚀
