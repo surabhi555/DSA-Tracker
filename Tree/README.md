@@ -21,3 +21,13 @@ Tree problems solved from **LeetCode**.
 
 - **right side view of binary tree** 
    https://leetcode.com/problems/binary-tree-right-side-view/description/
+
+🔥Day 2
+- **level order traversal**  
+  https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+- **balanced binary tree**  
+  https://leetcode.com/problems/balanced-binary-tree/
+
+- **maximum depth of binary tree**  
+  https://leetcode.com/problems/maximum-depth-of-binary-tree/
