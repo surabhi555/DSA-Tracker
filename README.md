@@ -1,22 +1,24 @@
-# DSA Tracker 🚀
+# 🌳 Trees – DSA
 
-This repository contains my Data Structures & Algorithms practice.
+Tree problems solved from **LeetCode**.
 
-## Topics Covered
-- Arrays
-- Strings
-- Linked List
-- Stack & Queue
-- Trees 
-- Binary Search
-- Dynamic Programming
-- Graphs
-- Recursion
-## Platform
-- LeetCode
-- GeeksforGeeks
+## Problems
+🔥Day 1
+- **inorder traversal**  
+  https://leetcode.com/problems/binary-tree-inorder-traversal/
 
-## Language
-- C++
+- **preorder traversal**  
+  https://leetcode.com/problems/binary-tree-preorder-traversal/
 
-📌 Goal: Consistent DSA practice 
+- **postorder traversal** 
+  https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+- **binary tree constuction from preorder and inorder** 
+  https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+
+- **diameter of binary tree** 
+   https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+- **right side view of binary tree** 
+   https://leetcode.com/problems/binary-tree-right-side-view/description/
+
