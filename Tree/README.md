@@ -36,3 +36,6 @@ Tree problems solved from **LeetCode**.
 - **maximum path sum**
   https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
+- **identical tree or not**
+https://leetcode.com/problems/same-tree/
+
