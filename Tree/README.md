@@ -31,3 +31,8 @@ Tree problems solved from **LeetCode**.
 
 - **maximum depth of binary tree**  
   https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+🔥Day 3
+- **maximum path sum**
+  https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
