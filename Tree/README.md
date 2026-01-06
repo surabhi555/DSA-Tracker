@@ -42,3 +42,10 @@ https://leetcode.com/problems/same-tree/
 🔥Day 4
 - **identical tree or not with BFS**
 
+🔥Day 5
+- **zig zag traversal**
+  https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
+
+
+
